@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "pixi.js": "^4.8.1",
+    "react-pixi-fiber": "^0.4.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "prop-types": "^15.6.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
